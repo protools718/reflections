@@ -5,3 +5,8 @@ Running git init creates the .git direction which is required for git repository
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 The staging area is the middle ground between the working directory and the repository. It value is that you can place files that you are ready to commit but gives you an opportunity to revise before creating a commit. One example would be working directory with multiple files. You can add and review the files that are relevant to the logical change you want to commit before doing so.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+Since the staging area is where files that are ready to be commit are, you can review files that will be commmited and add/remove as need to commit per logical change.
+
