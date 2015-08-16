@@ -13,3 +13,7 @@ Since the staging area is where files that are ready to be commit are, you can r
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 Creating a branch is helpful when creating a new feature that you're not yet ready to commit.
+
+How do the diagrams help you visualize the branch structure?
+
+The diagrams let you visually see branches and their respective commits. This will also allow to see if there are any unreachable commits.
