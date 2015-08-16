@@ -17,3 +17,7 @@ Creating a branch is helpful when creating a new feature that you're not yet rea
 How do the diagrams help you visualize the branch structure?
 
 The diagrams let you visually see branches and their respective commits. This will also allow to see if there are any unreachable commits.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+The branches will be merged together. Commits will be combined and listed by time stamp.
