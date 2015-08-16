@@ -21,3 +21,7 @@ The diagrams let you visually see branches and their respective commits. This wi
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 The branches will be merged together. Commits will be combined and listed by time stamp.
+
+What are the pros and cons of Git's automatic merging vs. always doing merges manually?
+
+A pro would be convenience. A con is since it only checks for conflicts in the same general area it still is possible to introduce a bug or duplicate data if they are not in the same location of a file(s)
