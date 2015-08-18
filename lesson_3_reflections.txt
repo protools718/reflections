@@ -11,3 +11,7 @@ Describe the differences between forks, clones, and branches. When would you use
 Branches are for making a version that is seperate from the main version of code. An example would be to test a new feature or testing a bug fix.
 Clones are copies of a remote repository. An example would be to download a repository to a local machine.
 Forks are copying someone else code. When forking a copy is made to your remote (ie: Github) but it still maintains a link to the original code. You can suggest changes which the creator can review and commit to the original.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+Offline line access of last known state so you can continue to work without internet access.
