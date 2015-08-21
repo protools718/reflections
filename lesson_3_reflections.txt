@@ -15,3 +15,7 @@ Forks are copying someone else code. When forking a copy is made to your remote 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 Offline line access of last known state so you can continue to work without internet access.
+
+How would you collaborate without using Git or Github? What would be easier, and what would be harder?
+
+One way of collaborating without Git or Github is using a cloud service like dropbox or Google docs. It would be different collaborating with multiple users since there is no system of verifying and commiting changes as provided in Git/Github. Though some of these services provide a version history it is not as robust and do not provide any comparison tools that would prevent an undesired overwrite for example.
